@@ -1,3 +1,4 @@
+// package mongo
 package main
 
 import (
@@ -47,3 +48,5 @@ func main() {
 	fmt.Println("✅ Connected to MongoDB Atlas!")
 
 }
+
+// func main 

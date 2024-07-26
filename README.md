@@ -12,7 +12,7 @@
 ![github_actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <!-- ![nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white) -->
-A simple containerised Go program.
+A simple containerised Go program that connects to different databases.
 
 `go build -o contained ./cmd/contained/main.go`
 
